@@ -1,0 +1,352 @@
+Stream,Best_Subject,Interest,Career
+Science,Math,Tech,AI Developer
+Science,Math,Engineering,Civil Engineer
+Science,Math,Finance,Quant Analyst
+Science,Math,Counseling,Lab Technician
+Science,Math,Social Work,Lab Technician
+Science,Math,Design,Biomedical Engineer
+Science,Math,Health,Biomedical Engineer
+Science,Math,Entrepreneurship,Lab Technician
+Science,Math,Research,Environmental Scientist
+Science,Biology,Tech,Biomedical Engineer
+Science,Biology,Engineering,Biomedical Engineer
+Science,Biology,Finance,Environmental Scientist
+Science,Biology,Counseling,Genetic Counselor
+Science,Biology,Social Work,Environmental Scientist
+Science,Biology,Design,Biomedical Engineer
+Science,Biology,Health,Doctor
+Science,Biology,Entrepreneurship,Lab Technician
+Science,Biology,Research,Biomedical Engineer
+Science,Computer,Tech,Software Developer
+Science,Computer,Engineering,DevOps Engineer
+Science,Computer,Finance,Environmental Scientist
+Science,Computer,Counseling,Biomedical Engineer
+Science,Computer,Social Work,Lab Technician
+Science,Computer,Design,Biomedical Engineer
+Science,Computer,Health,Biomedical Engineer
+Science,Computer,Entrepreneurship,Lab Technician
+Science,Computer,Research,Lab Technician
+Science,Physics,Tech,Lab Technician
+Science,Physics,Engineering,Biomedical Engineer
+Science,Physics,Finance,Lab Technician
+Science,Physics,Counseling,Biomedical Engineer
+Science,Physics,Social Work,Biomedical Engineer
+Science,Physics,Design,Lab Technician
+Science,Physics,Health,Biomedical Engineer
+Science,Physics,Entrepreneurship,Biomedical Engineer
+Science,Physics,Research,Environmental Scientist
+Science,Chemistry,Tech,Environmental Scientist
+Science,Chemistry,Engineering,Biomedical Engineer
+Science,Chemistry,Finance,Lab Technician
+Science,Chemistry,Counseling,Lab Technician
+Science,Chemistry,Social Work,Environmental Scientist
+Science,Chemistry,Design,Environmental Scientist
+Science,Chemistry,Health,Lab Technician
+Science,Chemistry,Entrepreneurship,Environmental Scientist
+Science,Chemistry,Research,Environmental Scientist
+Science,Accounts,Tech,Environmental Scientist
+Science,Accounts,Engineering,Environmental Scientist
+Science,Accounts,Finance,Biomedical Engineer
+Science,Accounts,Counseling,Lab Technician
+Science,Accounts,Social Work,Environmental Scientist
+Science,Accounts,Design,Lab Technician
+Science,Accounts,Health,Biomedical Engineer
+Science,Accounts,Entrepreneurship,Environmental Scientist
+Science,Accounts,Research,Environmental Scientist
+Science,Economics,Tech,Biomedical Engineer
+Science,Economics,Engineering,Lab Technician
+Science,Economics,Finance,Environmental Scientist
+Science,Economics,Counseling,Lab Technician
+Science,Economics,Social Work,Environmental Scientist
+Science,Economics,Design,Environmental Scientist
+Science,Economics,Health,Biomedical Engineer
+Science,Economics,Entrepreneurship,Biomedical Engineer
+Science,Economics,Research,Biomedical Engineer
+Science,Business Studies,Tech,Biomedical Engineer
+Science,Business Studies,Engineering,Lab Technician
+Science,Business Studies,Finance,Environmental Scientist
+Science,Business Studies,Counseling,Environmental Scientist
+Science,Business Studies,Social Work,Lab Technician
+Science,Business Studies,Design,Environmental Scientist
+Science,Business Studies,Health,Environmental Scientist
+Science,Business Studies,Entrepreneurship,Lab Technician
+Science,Business Studies,Research,Environmental Scientist
+Science,History,Tech,Biomedical Engineer
+Science,History,Engineering,Biomedical Engineer
+Science,History,Finance,Lab Technician
+Science,History,Counseling,Lab Technician
+Science,History,Social Work,Biomedical Engineer
+Science,History,Design,Biomedical Engineer
+Science,History,Health,Environmental Scientist
+Science,History,Entrepreneurship,Biomedical Engineer
+Science,History,Research,Lab Technician
+Science,English,Tech,Biomedical Engineer
+Science,English,Engineering,Lab Technician
+Science,English,Finance,Lab Technician
+Science,English,Counseling,Biomedical Engineer
+Science,English,Social Work,Biomedical Engineer
+Science,English,Design,Lab Technician
+Science,English,Health,Biomedical Engineer
+Science,English,Entrepreneurship,Environmental Scientist
+Science,English,Research,Lab Technician
+Science,Psychology,Tech,Lab Technician
+Science,Psychology,Engineering,Lab Technician
+Science,Psychology,Finance,Biomedical Engineer
+Science,Psychology,Counseling,Therapist
+Science,Psychology,Social Work,Biomedical Engineer
+Science,Psychology,Design,Biomedical Engineer
+Science,Psychology,Health,Biomedical Engineer
+Science,Psychology,Entrepreneurship,Lab Technician
+Science,Psychology,Research,Lab Technician
+Science,Political Science,Tech,Lab Technician
+Science,Political Science,Engineering,Environmental Scientist
+Science,Political Science,Finance,Biomedical Engineer
+Science,Political Science,Counseling,Lab Technician
+Science,Political Science,Social Work,Lab Technician
+Science,Political Science,Design,Biomedical Engineer
+Science,Political Science,Health,Lab Technician
+Science,Political Science,Entrepreneurship,Biomedical Engineer
+Science,Political Science,Research,Environmental Scientist
+Science,Sociology,Tech,Biomedical Engineer
+Science,Sociology,Engineering,Biomedical Engineer
+Science,Sociology,Finance,Biomedical Engineer
+Science,Sociology,Counseling,Environmental Scientist
+Science,Sociology,Social Work,Biomedical Engineer
+Science,Sociology,Design,Environmental Scientist
+Science,Sociology,Health,Lab Technician
+Science,Sociology,Entrepreneurship,Biomedical Engineer
+Science,Sociology,Research,Lab Technician
+Commerce,Math,Tech,Business Analyst
+Commerce,Math,Engineering,E-Commerce Manager
+Commerce,Math,Finance,Cost Analyst
+Commerce,Math,Counseling,Startup CFO
+Commerce,Math,Social Work,E-Commerce Manager
+Commerce,Math,Design,E-Commerce Manager
+Commerce,Math,Health,Cost Analyst
+Commerce,Math,Entrepreneurship,Startup CFO
+Commerce,Math,Research,Cost Analyst
+Commerce,Biology,Tech,E-Commerce Manager
+Commerce,Biology,Engineering,Startup CFO
+Commerce,Biology,Finance,E-Commerce Manager
+Commerce,Biology,Counseling,E-Commerce Manager
+Commerce,Biology,Social Work,E-Commerce Manager
+Commerce,Biology,Design,Startup CFO
+Commerce,Biology,Health,E-Commerce Manager
+Commerce,Biology,Entrepreneurship,Cost Analyst
+Commerce,Biology,Research,Startup CFO
+Commerce,Computer,Tech,Startup CFO
+Commerce,Computer,Engineering,E-Commerce Manager
+Commerce,Computer,Finance,Cost Analyst
+Commerce,Computer,Counseling,E-Commerce Manager
+Commerce,Computer,Social Work,Cost Analyst
+Commerce,Computer,Design,Startup CFO
+Commerce,Computer,Health,E-Commerce Manager
+Commerce,Computer,Entrepreneurship,Startup CFO
+Commerce,Computer,Research,E-Commerce Manager
+Commerce,Physics,Tech,E-Commerce Manager
+Commerce,Physics,Engineering,E-Commerce Manager
+Commerce,Physics,Finance,Cost Analyst
+Commerce,Physics,Counseling,E-Commerce Manager
+Commerce,Physics,Social Work,Startup CFO
+Commerce,Physics,Design,E-Commerce Manager
+Commerce,Physics,Health,Cost Analyst
+Commerce,Physics,Entrepreneurship,Startup CFO
+Commerce,Physics,Research,Startup CFO
+Commerce,Chemistry,Tech,Startup CFO
+Commerce,Chemistry,Engineering,Startup CFO
+Commerce,Chemistry,Finance,E-Commerce Manager
+Commerce,Chemistry,Counseling,E-Commerce Manager
+Commerce,Chemistry,Social Work,Cost Analyst
+Commerce,Chemistry,Design,Cost Analyst
+Commerce,Chemistry,Health,E-Commerce Manager
+Commerce,Chemistry,Entrepreneurship,Startup CFO
+Commerce,Chemistry,Research,Startup CFO
+Commerce,Accounts,Tech,E-Commerce Manager
+Commerce,Accounts,Engineering,E-Commerce Manager
+Commerce,Accounts,Finance,Chartered Accountant
+Commerce,Accounts,Counseling,Startup CFO
+Commerce,Accounts,Social Work,Startup CFO
+Commerce,Accounts,Design,Cost Analyst
+Commerce,Accounts,Health,Cost Analyst
+Commerce,Accounts,Entrepreneurship,Cost Analyst
+Commerce,Accounts,Research,Startup CFO
+Commerce,Economics,Tech,Startup CFO
+Commerce,Economics,Engineering,E-Commerce Manager
+Commerce,Economics,Finance,E-Commerce Manager
+Commerce,Economics,Counseling,Startup CFO
+Commerce,Economics,Social Work,E-Commerce Manager
+Commerce,Economics,Design,Cost Analyst
+Commerce,Economics,Health,Cost Analyst
+Commerce,Economics,Entrepreneurship,Business Consultant
+Commerce,Economics,Research,Startup CFO
+Commerce,Business Studies,Tech,E-Commerce Manager
+Commerce,Business Studies,Engineering,E-Commerce Manager
+Commerce,Business Studies,Finance,Startup CFO
+Commerce,Business Studies,Counseling,Cost Analyst
+Commerce,Business Studies,Social Work,E-Commerce Manager
+Commerce,Business Studies,Design,E-Commerce Manager
+Commerce,Business Studies,Health,E-Commerce Manager
+Commerce,Business Studies,Entrepreneurship,Cost Analyst
+Commerce,Business Studies,Research,E-Commerce Manager
+Commerce,History,Tech,Cost Analyst
+Commerce,History,Engineering,Startup CFO
+Commerce,History,Finance,Cost Analyst
+Commerce,History,Counseling,E-Commerce Manager
+Commerce,History,Social Work,Startup CFO
+Commerce,History,Design,E-Commerce Manager
+Commerce,History,Health,E-Commerce Manager
+Commerce,History,Entrepreneurship,E-Commerce Manager
+Commerce,History,Research,Cost Analyst
+Commerce,English,Tech,E-Commerce Manager
+Commerce,English,Engineering,Cost Analyst
+Commerce,English,Finance,Cost Analyst
+Commerce,English,Counseling,Startup CFO
+Commerce,English,Social Work,E-Commerce Manager
+Commerce,English,Design,Startup CFO
+Commerce,English,Health,Startup CFO
+Commerce,English,Entrepreneurship,Cost Analyst
+Commerce,English,Research,Cost Analyst
+Commerce,Psychology,Tech,E-Commerce Manager
+Commerce,Psychology,Engineering,Cost Analyst
+Commerce,Psychology,Finance,Cost Analyst
+Commerce,Psychology,Counseling,Startup CFO
+Commerce,Psychology,Social Work,E-Commerce Manager
+Commerce,Psychology,Design,E-Commerce Manager
+Commerce,Psychology,Health,Startup CFO
+Commerce,Psychology,Entrepreneurship,E-Commerce Manager
+Commerce,Psychology,Research,E-Commerce Manager
+Commerce,Political Science,Tech,E-Commerce Manager
+Commerce,Political Science,Engineering,E-Commerce Manager
+Commerce,Political Science,Finance,Cost Analyst
+Commerce,Political Science,Counseling,E-Commerce Manager
+Commerce,Political Science,Social Work,E-Commerce Manager
+Commerce,Political Science,Design,Cost Analyst
+Commerce,Political Science,Health,Startup CFO
+Commerce,Political Science,Entrepreneurship,E-Commerce Manager
+Commerce,Political Science,Research,Startup CFO
+Commerce,Sociology,Tech,E-Commerce Manager
+Commerce,Sociology,Engineering,Startup CFO
+Commerce,Sociology,Finance,E-Commerce Manager
+Commerce,Sociology,Counseling,E-Commerce Manager
+Commerce,Sociology,Social Work,Cost Analyst
+Commerce,Sociology,Design,Startup CFO
+Commerce,Sociology,Health,Cost Analyst
+Commerce,Sociology,Entrepreneurship,E-Commerce Manager
+Commerce,Sociology,Research,Cost Analyst
+Arts,Math,Tech,Community Planner
+Arts,Math,Engineering,Community Planner
+Arts,Math,Finance,Content Creator
+Arts,Math,Counseling,Creative Writer
+Arts,Math,Social Work,Creative Writer
+Arts,Math,Design,Community Planner
+Arts,Math,Health,Content Creator
+Arts,Math,Entrepreneurship,Creative Writer
+Arts,Math,Research,Community Planner
+Arts,Biology,Tech,Creative Writer
+Arts,Biology,Engineering,Community Planner
+Arts,Biology,Finance,Creative Writer
+Arts,Biology,Counseling,Content Creator
+Arts,Biology,Social Work,Creative Writer
+Arts,Biology,Design,Creative Writer
+Arts,Biology,Health,Content Creator
+Arts,Biology,Entrepreneurship,Community Planner
+Arts,Biology,Research,Content Creator
+Arts,Computer,Tech,Content Creator
+Arts,Computer,Engineering,Community Planner
+Arts,Computer,Finance,Content Creator
+Arts,Computer,Counseling,Creative Writer
+Arts,Computer,Social Work,Community Planner
+Arts,Computer,Design,Creative Writer
+Arts,Computer,Health,Community Planner
+Arts,Computer,Entrepreneurship,Creative Writer
+Arts,Computer,Research,Content Creator
+Arts,Physics,Tech,Content Creator
+Arts,Physics,Engineering,Content Creator
+Arts,Physics,Finance,Creative Writer
+Arts,Physics,Counseling,Content Creator
+Arts,Physics,Social Work,Community Planner
+Arts,Physics,Design,Community Planner
+Arts,Physics,Health,Community Planner
+Arts,Physics,Entrepreneurship,Content Creator
+Arts,Physics,Research,Community Planner
+Arts,Chemistry,Tech,Community Planner
+Arts,Chemistry,Engineering,Creative Writer
+Arts,Chemistry,Finance,Creative Writer
+Arts,Chemistry,Counseling,Content Creator
+Arts,Chemistry,Social Work,Creative Writer
+Arts,Chemistry,Design,Creative Writer
+Arts,Chemistry,Health,Content Creator
+Arts,Chemistry,Entrepreneurship,Community Planner
+Arts,Chemistry,Research,Content Creator
+Arts,Accounts,Tech,Creative Writer
+Arts,Accounts,Engineering,Community Planner
+Arts,Accounts,Finance,Content Creator
+Arts,Accounts,Counseling,Creative Writer
+Arts,Accounts,Social Work,Community Planner
+Arts,Accounts,Design,Content Creator
+Arts,Accounts,Health,Content Creator
+Arts,Accounts,Entrepreneurship,Creative Writer
+Arts,Accounts,Research,Creative Writer
+Arts,Economics,Tech,Community Planner
+Arts,Economics,Engineering,Creative Writer
+Arts,Economics,Finance,Content Creator
+Arts,Economics,Counseling,Community Planner
+Arts,Economics,Social Work,Creative Writer
+Arts,Economics,Design,Content Creator
+Arts,Economics,Health,Creative Writer
+Arts,Economics,Entrepreneurship,Community Planner
+Arts,Economics,Research,Creative Writer
+Arts,Business Studies,Tech,Creative Writer
+Arts,Business Studies,Engineering,Content Creator
+Arts,Business Studies,Finance,Creative Writer
+Arts,Business Studies,Counseling,Creative Writer
+Arts,Business Studies,Social Work,Content Creator
+Arts,Business Studies,Design,Content Creator
+Arts,Business Studies,Health,Creative Writer
+Arts,Business Studies,Entrepreneurship,Community Planner
+Arts,Business Studies,Research,Content Creator
+Arts,History,Tech,Community Planner
+Arts,History,Engineering,Creative Writer
+Arts,History,Finance,Community Planner
+Arts,History,Counseling,Content Creator
+Arts,History,Social Work,Community Planner
+Arts,History,Design,Content Creator
+Arts,History,Health,Content Creator
+Arts,History,Entrepreneurship,Creative Writer
+Arts,History,Research,Content Creator
+Arts,English,Tech,Technical Writer
+Arts,English,Engineering,Community Planner
+Arts,English,Finance,Community Planner
+Arts,English,Counseling,Community Planner
+Arts,English,Social Work,Creative Writer
+Arts,English,Design,Content Creator
+Arts,English,Health,Community Planner
+Arts,English,Entrepreneurship,Community Planner
+Arts,English,Research,Creative Writer
+Arts,Psychology,Tech,Creative Writer
+Arts,Psychology,Engineering,Creative Writer
+Arts,Psychology,Finance,Community Planner
+Arts,Psychology,Counseling,Psychologist
+Arts,Psychology,Social Work,Content Creator
+Arts,Psychology,Design,Creative Writer
+Arts,Psychology,Health,Creative Writer
+Arts,Psychology,Entrepreneurship,Content Creator
+Arts,Psychology,Research,Content Creator
+Arts,Political Science,Tech,Community Planner
+Arts,Political Science,Engineering,Community Planner
+Arts,Political Science,Finance,Community Planner
+Arts,Political Science,Counseling,Community Planner
+Arts,Political Science,Social Work,Social Activist
+Arts,Political Science,Design,Content Creator
+Arts,Political Science,Health,Community Planner
+Arts,Political Science,Entrepreneurship,Content Creator
+Arts,Political Science,Research,Community Planner
+Arts,Sociology,Tech,Content Creator
+Arts,Sociology,Engineering,Content Creator
+Arts,Sociology,Finance,Community Planner
+Arts,Sociology,Counseling,Creative Writer
+Arts,Sociology,Social Work,Community Planner
+Arts,Sociology,Design,Content Creator
+Arts,Sociology,Health,Creative Writer
+Arts,Sociology,Entrepreneurship,Creative Writer
+Arts,Sociology,Research,Creative Writer
