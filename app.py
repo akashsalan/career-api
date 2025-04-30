@@ -1,9 +1,14 @@
 
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import pandas as pd
-import os
 from sklearn.preprocessing import LabelEncoder
 from sklearn.tree import DecisionTreeClassifier
+import os
+
+# Initialize Flask app and enable CORS
+app = Flask(__name__)
+CORS(app)
 
 # Load dataset and train model at startup
 df = pd.read_csv("student_career_351_final_fixed.csv")
@@ -27,12 +32,9 @@ y = df['Career_enc']
 model = DecisionTreeClassifier()
 model.fit(X, y)
 
-# Setup Flask app
-app = Flask(__name__)
-
 @app.route('/')
 def home():
-    return "Career Recommender API is running (model trained live)."
+    return "Career Recommender API is running (CORS enabled, model trained live)."
 
 @app.route('/predict', methods=['POST'])
 def predict():
@@ -57,6 +59,5 @@ def predict():
         return jsonify({'error': str(e)}), 400
 
 if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 5000))  # default to 5000 locally
+    port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port, debug=True)
-
